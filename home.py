@@ -35,8 +35,8 @@ def show():
 
             st.markdown("#### Documentation")
             st.write("""
-                - [Source Code](https://github.com/elishastanley/Customer-Churn-Prediction-App)
-                - [Model Training](https://github.com/elishastanley/Churn-Prediction-Enhancing-Retention-with-Machine-Learning)
+                - [Source Code](https://github.com/kbay9/P4-Embedding-Machine-Learning-Models-in-GUIs)
+                - [Model Training](https://github.com/kbay9/LP2_Customer_Churn_Prediction)
             """)
         
         st.image("images/churn05.png", use_column_width="always")
@@ -44,17 +44,17 @@ def show():
     with col2:
         st.markdown("#### 🔗 Quick Links")
         st.write("""
-            - [GitHub Repository](https://github.com/elishastanley/Churn-Prediction-Enhancing-Retention-with-Machine-Learning)
-            - [LinkedIn Profile](https://www.linkedin.com/in/elisha-stanley/)
-            - [Read on Medium](https://medium.com/@elishastanley255)
+            - [GitHub Repository](https://github.com/kbay9/P4-Embedding-Machine-Learning-Models-in-GUIs)
+            - [LinkedIn Profile](https://www.linkedin.com/in/kobena-enyam-371323235/)
+            - [Read on Medium](https://medium.com/@kobenaenyam/unlocking-customer-retention-building-a-churn-prediction-app-with-streamlit-396bc9f3e4a5)
         """)
 
         st.markdown("##### 🤝 Connect with Me")
         st.write("""
-            - [GitHub](https://github.com/elishastanley)
-            - [LinkedIn](https://www.linkedin.com/in/elisha-stanley/)
-            - [Medium](https://medium.com/@elishastanley255)
-            - Contact me at [Email](mailto:elishastanley255@gmail.com)
+            - [GitHub](https://github.com/kbay9)
+            - [LinkedIn](https://www.linkedin.com/in/kobena-enyam-371323235/)
+            - [Medium](https://medium.com/@kobenaenyam)
+            - Contact me at [Email](mailto:kobenaenyam@gmail.com)
         """)
 
 
